@@ -1,0 +1,35 @@
+/* Enable smooth scrolling behavior for html elements */
+
+html {
+	scroll-behavior: smooth;
+}
+
+/* Body foreground color value */
+
+body {
+	color: #161616;
+}
+
+/* Anchor elements foreground color value */
+
+a {
+	color: #161616;
+}
+
+/* Hide elements with class visually hidden */
+
+.visually-hidden {
+	display: none;
+}
+
+/* card-category foreground color */
+
+.card-category {
+	color: #D73953;
+}
+
+/* Section Tagline foreground color */
+
+section-tagline {
+	color: #D73953;
+}
